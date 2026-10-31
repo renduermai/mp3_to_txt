@@ -7,6 +7,8 @@
 ## 效果
 
 ![界面效果](docs/screenshot.png)
+<img width="1940" height="1029" alt="image" src="https://github.com/user-attachments/assets/8d3dbb9f-784b-4565-a835-132fb0952421" />
+
 
 > 实测：62.5 分钟播客 → 18608 字逐字稿，上传 57.8MB，下载 53.5KB txt。
 
